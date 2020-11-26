@@ -1,9 +1,7 @@
 # R-Markdown-Presentation-Plotly
+#FOR REAL? YOU CAME TO SEE AND JUDJE? 
 
-# developing-data-product-week-3-assignment
-
-# Coursera Developing Data Products Week 3 Peer-graded Assignment: Plotly
-
+ developing-data-product-week-3-assignment
 
 In this project, we created a web page presentation using R Markdown that features a plot created with Plotly, representing the number of road accidents in Great Britain from 2005 to 2015, grouped by severity (slight, serious, or fatal).
 
